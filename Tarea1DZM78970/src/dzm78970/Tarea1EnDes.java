@@ -6,7 +6,7 @@ import java.util.*;
 public class Tarea1EnDes {
 
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
+	Scanner sc=new Scanner(System.in);
         int choice;
         
         do {
